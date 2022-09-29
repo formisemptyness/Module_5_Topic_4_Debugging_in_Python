@@ -1,0 +1,2 @@
+# Module_5_Topic_4_Debugging_in_Python
+     Take a screenshot of a breakpoint where the error is.     Take a screenshot of the code running with the error.     Fix the error.     Take a screenshot of the code running without the error.     Remove the break point.  Submit your screenshots below.   Note: As some students have struggled with the above in the  past, The expected output is to count from 1 to the number passed in. IE: print_to_number(5) should print: 1 2 3 4 5
